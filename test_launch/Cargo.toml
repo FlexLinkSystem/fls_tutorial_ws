@@ -1,0 +1,7 @@
+[package]
+name = "test_launch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fls_launch = {git = "https://github.com/FlexLinkSystem/fls_launch.git"}
